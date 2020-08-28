@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: NPCBossOverride Controller
+  m_Controller: {fileID: 9100000, guid: 699d6e3bad4fb324da49a16e3d1cdfa9, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: fc623db9d5cd1b340b52f0b47f16de23, type: 3}
+    m_OverrideClip: {fileID: 7400000, guid: fc623db9d5cd1b340b52f0b47f16de23, type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: 5be5c9a80c56b584b8a02e4c2a9d0459, type: 3}
+    m_OverrideClip: {fileID: 7400000, guid: 5be5c9a80c56b584b8a02e4c2a9d0459, type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: 0fef3ee7bffa0724eadc95bb4b10d736, type: 3}
+    m_OverrideClip: {fileID: 7400000, guid: 0fef3ee7bffa0724eadc95bb4b10d736, type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: bb1f7c326b1d1184fbf5a62ee66c4188, type: 3}
+    m_OverrideClip: {fileID: 7400000, guid: bb1f7c326b1d1184fbf5a62ee66c4188, type: 3}
